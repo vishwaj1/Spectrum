@@ -1,0 +1,21 @@
+const styles = {
+    picker: {
+        width: "100%!important",
+       // marginLeft: "10px",
+        marginRight: "100px",
+        marginTop: "2rem"
+        //justifyCotent: "center"
+    },
+    addColor : {
+        width: "100%",
+        padding: "1rem",
+        marginTop: "1rem",
+        fontSize: "1rem"
+    },
+    colorNameInput: {
+        width: "100%",
+        height: "70px",
+    }
+}
+
+export default styles;
